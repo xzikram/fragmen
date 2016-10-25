@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhatshapBro</string>
+    <string name="sign">SIGN IN</string>
+    <string name="or">OR</string>
+    <string name="forgot">FORGOT PASSWORD?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
